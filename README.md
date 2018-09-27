@@ -45,7 +45,7 @@ The code is structured as follows:
 * Analysis and Visualization
 
 ## Documentation
-2 reports are included in the repository:
+2 reports are included in the "Reports" folder:
 * _act_report.pdf_ : Introduces the project and documents the aspects I
  explored in the data and some of the findings
 * _wrangle_report.pdf_ : Documents the steps followed in "wrangling" 
